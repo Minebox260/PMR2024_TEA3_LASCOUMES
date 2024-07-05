@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TEA 3 PMR 2024</string>
+
+    <string name="username">Username</string>
+    <string name="username_hint">Enter a name</string>
+    <string name="login_button">OK</string>
+    <string name="username_empty">Username can not be empty</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="password_label">Password</string>
+    <string name="login_successful">Login successful</string>
+    <string name="login_failed">Failed to login</string>
+    <string name="login_no_network">Network is not available, using offline mode</string>
+    <string name="login_failed_credentials">Bad credentials</string>
+    <string name="auth_failed">Failed to authenticate. Please log out and try again</string>
+
+    <string name="new_list_hint">Create a new list</string>
+    <string name="new_list_submit">OK</string>
+    <string name="new_list_empty">List name can not be empty</string>
+    <string name="lists_load_fail">Failed to load lists</string>
+    <string name="list_post_successful">New list created successfully</string>
+    <string name="list_post_failed">Failed to create the list</string>
+
+    <string name="new_item_hint">Add an item</string>
+    <string name="new_item_submit">OK</string>
+    <string name="new_item_invalid">Item name or URL is not valid</string>
+    <string name="items_load_failed">Failed to load items</string>
+    <string name="items_post_successful">Item created successfully</string>
+    <string name="item_post_failed">Failed to add the item</string>
+    <string name="item_put_failed">Failed to update item</string>
+    <string name="new_item_url_hint">Add URL</string>
+
+    <string name="title_activity_choix_list">Choose a list</string>
+    <string name="title_activity_show_list">List data</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="dialog_title">Information</string>
+    <string name="dialog_dismiss">OK</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Log out</string>
+    <string name="settings_base_url_title">API Base URL</string>
+    <string name="settings_base_url_summary">Enter the API Base URL</string>
+    <string name="settings_api_title">API</string>
+
+
+
+
+
+
+</resources>

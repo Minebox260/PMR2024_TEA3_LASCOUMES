@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TEA 3 PMR 2024</string>
+
+    <string name="username">Pseudo</string>
+    <string name="username_hint">Entrez un pseudo</string>
+    <string name="login_button">OK</string>
+    <string name="username_empty">Le pseudo ne peut pas être vide</string>
+    <string name="password_hint">Entrez votre mot de passe</string>
+    <string name="password_label">Mot de passe</string>
+    <string name="login_successful">Connexion réussie</string>
+    <string name="login_failed">Impossible de se connecter</string>
+    <string name="login_no_network">Réseau indisponible, utilisation du mode offline</string>
+    <string name="login_failed_credentials">Mauvais identifiants</string>
+    <string name="auth_failed">L\'authentification a écouché. Déconnectez vous et réessayez.</string>
+
+    <string name="new_list_hint">Créer une nouvelle liste</string>
+    <string name="new_list_submit">OK</string>
+    <string name="new_list_empty">Une liste ne peut pas avoir un nom vide</string>
+    <string name="lists_load_fail">Echec du chargement des listes</string>
+    <string name="list_post_successful">Nouvelle liste créé</string>
+    <string name="list_post_failed">Impossible de créer la liste</string>
+
+    <string name="new_item_hint">Ajouter un item</string>
+    <string name="new_item_submit">OK</string>
+    <string name="new_item_invalid">Le nom ou l\'URL n\'est pas valide</string>
+    <string name="items_load_failed">Echec du chargement des items</string>
+    <string name="items_post_successful">Item créé</string>
+    <string name="item_post_failed">Impossible de créer l\'item</string>
+    <string name="item_put_failed">Impossible de mettre à jour l\'item</string>
+    <string name="new_item_url_hint">Ajouter une URL</string>
+
+    <string name="title_activity_choix_list">Choix de liste</string>
+    <string name="title_activity_show_list">Affichage liste</string>
+    <string name="title_activity_settings">Paramètres</string>
+
+    <string name="dialog_title">Information</string>
+    <string name="dialog_dismiss">OK</string>
+
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_logout">Se déconnecter</string>
+    <string name="settings_base_url_title">API Base URL</string>
+    <string name="settings_base_url_summary">Entrez l\'URL de base de l\'API</string>
+    <string name="settings_api_title">API</string>
+
+
+
+
+
+
+</resources>
